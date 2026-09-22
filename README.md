@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Steffi 👋
 
-<!--
-**steffi-02/steffi-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Payment Systems & Monetics
 
-Here are some ideas to get you started:
+I will soon begin a Master's degree in Cybersecurity, while building practical skills in Linux, networking, information security and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Areas of Interest
+
+- Information Security
+- Network Security
+- Linux & System Administration
+- Web Security
+- Security Operations & Incident Analysis
+- Payment Systems Security
+
+### 🛠️ Currently Learning
+
+- Linux
+- Computer Networks
+- Cybersecurity Fundamentals
+- Security Tools & Methodologies
+- Practical Cybersecurity Labs
+
+### 📚 Background
+
+- Bachelor's degree in Electronic Payment Systems (Monetics)
+- Experience in payment services
+- Currently developing practical cybersecurity skills
+
+### 🎯 My Goal
+
+To build strong technical skills in cybersecurity and develop secure solutions for digital and payment systems.
+
+---
+
+📌 This profile documents my learning journey, practical labs and cybersecurity projects.
